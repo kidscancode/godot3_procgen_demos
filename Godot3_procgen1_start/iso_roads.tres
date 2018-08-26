@@ -1,0 +1,166 @@
+[gd_resource type="TileSet" load_steps=17 format=2]
+
+[ext_resource path="res://assets/isometric_roads/crossroad.png" type="Texture" id=1]
+[ext_resource path="res://assets/isometric_roads/crossroadNSW.png" type="Texture" id=2]
+[ext_resource path="res://assets/isometric_roads/roadEW.png" type="Texture" id=3]
+[ext_resource path="res://assets/isometric_roads/endW.png" type="Texture" id=4]
+[ext_resource path="res://assets/isometric_roads/roadES.png" type="Texture" id=5]
+[ext_resource path="res://assets/isometric_roads/endS.png" type="Texture" id=6]
+[ext_resource path="res://assets/isometric_roads/endE.png" type="Texture" id=7]
+[ext_resource path="res://assets/isometric_roads/grass.png" type="Texture" id=8]
+[ext_resource path="res://assets/isometric_roads/crossroadNEW.png" type="Texture" id=9]
+[ext_resource path="res://assets/isometric_roads/roadNW.png" type="Texture" id=10]
+[ext_resource path="res://assets/isometric_roads/crossroadNES.png" type="Texture" id=11]
+[ext_resource path="res://assets/isometric_roads/roadNS.png" type="Texture" id=12]
+[ext_resource path="res://assets/isometric_roads/roadNE.png" type="Texture" id=13]
+[ext_resource path="res://assets/isometric_roads/endN.png" type="Texture" id=14]
+[ext_resource path="res://assets/isometric_roads/crossroadESW.png" type="Texture" id=15]
+[ext_resource path="res://assets/isometric_roads/roadSW.png" type="Texture" id=16]
+
+[resource]
+
+0/name = "0"
+0/texture = ExtResource( 1 )
+0/tex_offset = Vector2( 0, 0 )
+0/modulate = Color( 1, 1, 1, 1 )
+0/region = Rect2( 0, 0, 100, 65 )
+0/is_autotile = false
+0/occluder_offset = Vector2( 50, 32.5 )
+0/navigation_offset = Vector2( 50, 32.5 )
+0/shapes = [  ]
+1/name = "1"
+1/texture = ExtResource( 2 )
+1/tex_offset = Vector2( 0, 0 )
+1/modulate = Color( 1, 1, 1, 1 )
+1/region = Rect2( 0, 0, 100, 65 )
+1/is_autotile = false
+1/occluder_offset = Vector2( 50, 32.5 )
+1/navigation_offset = Vector2( 50, 32.5 )
+1/shapes = [  ]
+2/name = "2"
+2/texture = ExtResource( 9 )
+2/tex_offset = Vector2( 0, 0 )
+2/modulate = Color( 1, 1, 1, 1 )
+2/region = Rect2( 0, 0, 100, 65 )
+2/is_autotile = false
+2/occluder_offset = Vector2( 50, 32.5 )
+2/navigation_offset = Vector2( 50, 32.5 )
+2/shapes = [  ]
+3/name = "3"
+3/texture = ExtResource( 10 )
+3/tex_offset = Vector2( 0, 0 )
+3/modulate = Color( 1, 1, 1, 1 )
+3/region = Rect2( 0, 0, 100, 65 )
+3/is_autotile = false
+3/occluder_offset = Vector2( 50, 32.5 )
+3/navigation_offset = Vector2( 50, 32.5 )
+3/shapes = [  ]
+4/name = "4"
+4/texture = ExtResource( 11 )
+4/tex_offset = Vector2( 0, 0 )
+4/modulate = Color( 1, 1, 1, 1 )
+4/region = Rect2( 0, 0, 100, 65 )
+4/is_autotile = false
+4/occluder_offset = Vector2( 50, 32.5 )
+4/navigation_offset = Vector2( 50, 32.5 )
+4/shapes = [  ]
+5/name = "5"
+5/texture = ExtResource( 12 )
+5/tex_offset = Vector2( 0, 0 )
+5/modulate = Color( 1, 1, 1, 1 )
+5/region = Rect2( 0, 0, 100, 65 )
+5/is_autotile = false
+5/occluder_offset = Vector2( 50, 32.5 )
+5/navigation_offset = Vector2( 50, 32.5 )
+5/shapes = [  ]
+6/name = "6"
+6/texture = ExtResource( 13 )
+6/tex_offset = Vector2( 0, 0 )
+6/modulate = Color( 1, 1, 1, 1 )
+6/region = Rect2( 0, 0, 100, 65 )
+6/is_autotile = false
+6/occluder_offset = Vector2( 50, 32.5 )
+6/navigation_offset = Vector2( 50, 32.5 )
+6/shapes = [  ]
+7/name = "7"
+7/texture = ExtResource( 14 )
+7/tex_offset = Vector2( 0, 0 )
+7/modulate = Color( 1, 1, 1, 1 )
+7/region = Rect2( 0, 0, 100, 65 )
+7/is_autotile = false
+7/occluder_offset = Vector2( 50, 32.5 )
+7/navigation_offset = Vector2( 50, 32.5 )
+7/shapes = [  ]
+8/name = "8"
+8/texture = ExtResource( 15 )
+8/tex_offset = Vector2( 0, 0 )
+8/modulate = Color( 1, 1, 1, 1 )
+8/region = Rect2( 0, 0, 100, 65 )
+8/is_autotile = false
+8/occluder_offset = Vector2( 50, 32.5 )
+8/navigation_offset = Vector2( 50, 32.5 )
+8/shapes = [  ]
+9/name = "9"
+9/texture = ExtResource( 16 )
+9/tex_offset = Vector2( 0, 0 )
+9/modulate = Color( 1, 1, 1, 1 )
+9/region = Rect2( 0, 0, 100, 65 )
+9/is_autotile = false
+9/occluder_offset = Vector2( 50, 32.5 )
+9/navigation_offset = Vector2( 50, 32.5 )
+9/shapes = [  ]
+10/name = "10"
+10/texture = ExtResource( 3 )
+10/tex_offset = Vector2( 0, 0 )
+10/modulate = Color( 1, 1, 1, 1 )
+10/region = Rect2( 0, 0, 100, 65 )
+10/is_autotile = false
+10/occluder_offset = Vector2( 50, 32.5 )
+10/navigation_offset = Vector2( 50, 32.5 )
+10/shapes = [  ]
+11/name = "11"
+11/texture = ExtResource( 4 )
+11/tex_offset = Vector2( 0, 0 )
+11/modulate = Color( 1, 1, 1, 1 )
+11/region = Rect2( 0, 0, 100, 65 )
+11/is_autotile = false
+11/occluder_offset = Vector2( 50, 32.5 )
+11/navigation_offset = Vector2( 50, 32.5 )
+11/shapes = [  ]
+12/name = "12"
+12/texture = ExtResource( 5 )
+12/tex_offset = Vector2( 0, 0 )
+12/modulate = Color( 1, 1, 1, 1 )
+12/region = Rect2( 0, 0, 100, 65 )
+12/is_autotile = false
+12/occluder_offset = Vector2( 50, 32.5 )
+12/navigation_offset = Vector2( 50, 32.5 )
+12/shapes = [  ]
+13/name = "13"
+13/texture = ExtResource( 6 )
+13/tex_offset = Vector2( 0, 0 )
+13/modulate = Color( 1, 1, 1, 1 )
+13/region = Rect2( 0, 0, 100, 65 )
+13/is_autotile = false
+13/occluder_offset = Vector2( 50, 32.5 )
+13/navigation_offset = Vector2( 50, 32.5 )
+13/shapes = [  ]
+14/name = "14"
+14/texture = ExtResource( 7 )
+14/tex_offset = Vector2( 0, 0 )
+14/modulate = Color( 1, 1, 1, 1 )
+14/region = Rect2( 0, 0, 100, 65 )
+14/is_autotile = false
+14/occluder_offset = Vector2( 50, 32.5 )
+14/navigation_offset = Vector2( 50, 32.5 )
+14/shapes = [  ]
+15/name = "15"
+15/texture = ExtResource( 8 )
+15/tex_offset = Vector2( 0, 0 )
+15/modulate = Color( 1, 1, 1, 1 )
+15/region = Rect2( 0, 0, 100, 65 )
+15/is_autotile = false
+15/occluder_offset = Vector2( 50, 32.5 )
+15/navigation_offset = Vector2( 50, 32.5 )
+15/shapes = [  ]
+
