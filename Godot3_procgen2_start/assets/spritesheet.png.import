@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Star_Gold.png-39c95c6a22c44f90d75c7fbb8ea53e8b.stex"
+path="res://.import/spritesheet.png-76e0b916bc20d45ac6900db6e21d8a9e.stex"
 
 [deps]
 
-source_file="res://assets/Star_Gold.png"
-dest_files=[ "res://.import/Star_Gold.png-39c95c6a22c44f90d75c7fbb8ea53e8b.stex" ]
+source_file="res://assets/spritesheet.png"
+dest_files=[ "res://.import/spritesheet.png-76e0b916bc20d45ac6900db6e21d8a9e.stex" ]
 
 [params]
 

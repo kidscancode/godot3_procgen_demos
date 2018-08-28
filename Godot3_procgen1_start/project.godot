@@ -10,7 +10,7 @@ config_version=3
 
 [application]
 
-config/name="Godot3_procgen1"
+config/name="Godot3_procgen1_start"
 config/icon="res://icon.png"
 
 [input]

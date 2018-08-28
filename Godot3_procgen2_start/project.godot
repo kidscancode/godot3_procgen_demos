@@ -10,13 +10,8 @@ config_version=3
 
 [application]
 
-config/name="Godot3_procgen1_end"
+config/name="Godot3_procgen1"
 config/icon="res://icon.png"
-
-[display]
-
-window/size/width=1280
-window/size/height=768
 
 [input]
 
@@ -39,5 +34,4 @@ move_right=[ Object(InputEventKey,"resource_local_to_scene":false,"resource_name
 
 [rendering]
 
-quality/2d/use_pixel_snap=true
 environment/default_environment="res://default_env.tres"
