@@ -15,5 +15,5 @@ Generating a random maze using the Recursive Backtracker algorithm and Godot's T
 
 Additions and modifications to the maze generator from Part 1.
 
-- Text: http://kidscancode.org/blog/2018/08/godot3_procgen1/
+- Text: http://kidscancode.org/blog/2018/09/godot3_procgen2/
 - Video: https://youtu.be/qkiyzjTqm9o
