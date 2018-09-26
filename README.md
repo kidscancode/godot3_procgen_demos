@@ -17,3 +17,10 @@ Additions and modifications to the maze generator from Part 1.
 
 - Text: http://kidscancode.org/blog/2018/09/godot3_procgen2/
 - Video: https://youtu.be/qkiyzjTqm9o
+
+## Part 03: Tile-based Infinite Worlds
+
+Generating a random tile-based map as you explore it.
+
+- Text: http://kidscancode.org/blog/2018/09/godot3_procgen3/
+- Video: https://youtu.be/lc34v8pjTXk
