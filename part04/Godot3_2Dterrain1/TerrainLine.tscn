@@ -1,0 +1,38 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Line2D.gd" type="Script" id=1]
+
+[node name="TerrainLine" type="Line2D" index="0"]
+
+points = PoolVector2Array( 265.095, 383.505, 543.055, 251.963, 651.89, 412.475 )
+width = 10.0
+default_color = Color( 0.301642, 0.957031, 0.0037384, 1 )
+texture_mode = 125392360
+joint_mode = 2
+begin_cap_mode = 2
+end_cap_mode = 2
+sharp_limit = 2.0
+round_precision = 8
+script = ExtResource( 1 )
+_sections_unfolded = [ "Capping" ]
+displacement = 100
+iterations = 5
+height = 250
+smooth = 0.6
+
+[node name="Polygon2D" type="Polygon2D" parent="." index="0"]
+
+polygon = PoolVector2Array(  )
+uv = PoolVector2Array(  )
+color = Color( 1, 1, 1, 1 )
+vertex_colors = PoolColorArray(  )
+offset = Vector2( 0, 0 )
+antialiased = false
+texture = null
+texture_offset = Vector2( 0, 0 )
+texture_scale = Vector2( 1, 1 )
+texture_rotation_degrees = 0.0
+invert_enable = false
+invert_border = 100.0
+
+
