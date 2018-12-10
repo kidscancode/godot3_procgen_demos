@@ -1,0 +1,23 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=3
+
+[application]
+
+config/name="Godot3_DungeonGen02"
+run/main_scene="res://Main.tscn"
+config/icon="res://icon.png"
+
+[physics]
+
+2d/default_gravity=0
+
+[rendering]
+
+environment/default_environment="res://default_env.tres"
