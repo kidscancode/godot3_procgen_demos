@@ -93,5 +93,3 @@ func find_mst(nodes):
 		# Remove the node from the array so it isn't visited again
 		nodes.erase(min_p)
 	return path
-		
-	

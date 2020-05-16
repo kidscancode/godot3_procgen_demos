@@ -36,5 +36,3 @@ func find_valid_tiles(cell):
 		if is_match and not i in valid_tiles:
 			valid_tiles.append(i)
 	return valid_tiles
-				
-				 
