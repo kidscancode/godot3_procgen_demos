@@ -43,9 +43,3 @@ func _input(event):
 		for n in $Rooms.get_children():
 			n.queue_free()
 		make_rooms()
-	
-	
-	
-	
-	
-	
